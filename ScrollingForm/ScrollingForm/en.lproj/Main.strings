@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Phone number:"; ObjectID = "EqD-PU-vrx"; */
+"EqD-PU-vrx.text" = "Phone number:";
+
+/* Class = "UILabel"; text = "Address line 2:"; ObjectID = "LeJ-yQ-iGq"; */
+"LeJ-yQ-iGq.text" = "Address line 2:";
+
+/* Class = "UILabel"; text = "Last name:"; ObjectID = "dkh-cJ-3Im"; */
+"dkh-cJ-3Im.text" = "Last name:";
+
+/* Class = "UILabel"; text = "Address line 1:"; ObjectID = "fsA-sk-zC7"; */
+"fsA-sk-zC7.text" = "Address line 1:";
+
+/* Class = "UILabel"; text = "City:"; ObjectID = "jQc-Fz-vni"; */
+"jQc-Fz-vni.text" = "City:";
+
+/* Class = "UILabel"; text = "State:"; ObjectID = "nU9-RU-d6L"; */
+"nU9-RU-d6L.text" = "State:";
+
+/* Class = "UILabel"; text = "First name:"; ObjectID = "tsW-Yo-YZk"; */
+"tsW-Yo-YZk.text" = "First name:";
+
+/* Class = "UILabel"; text = "Zip code:"; ObjectID = "zHZ-V0-63d"; */
+"zHZ-V0-63d.text" = "Zip code:";
